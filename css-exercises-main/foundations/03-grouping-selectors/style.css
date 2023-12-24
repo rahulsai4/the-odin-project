@@ -1,0 +1,14 @@
+#button1, #button2 {
+    font-size : 28px;
+    font-weight: bold;
+}
+
+#button1{
+    color : white;
+    background-color: black;
+}
+
+#button2{
+    color: black;
+    background-color: rgb(0,120,143)
+}
