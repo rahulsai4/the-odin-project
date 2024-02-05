@@ -1,0 +1,22 @@
+#container{
+    display:flex;
+    border: 5px solid;
+    width: 700px;
+    height: 700px;
+}
+
+#computer{
+    flex:none;
+    border: 5px solid brown;
+    padding: 10px;
+    align-self: center;
+}
+
+#printer{
+    flex:auto;
+    border: 5px solid brown;
+    padding: 10px;
+    align-self: center;
+}
+
+
